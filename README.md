@@ -24,15 +24,15 @@ make clean
 
 I think everybody knows how to play chess but here is a list of commands used in my program:
 
-(N)ew game
-(D)raw vote
-(R)esign
-(M)ove piece
-(S)etup mode
+(N)ew game <br />
+(D)raw vote <br />
+(R)esign <br />
+(M)ove piece <br />
+(S)etup mode <br />
  - (+) Add piece
  - (-) Remove piece
  - (=) Change player turn
- - (done) Exit setup mode
+ - (done) Exit setup mode <br />
 (^D) Quit Game
 
 More instructions are provided when these commands are issued. Have fun!
